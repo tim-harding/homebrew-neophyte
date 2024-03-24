@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!/.github
+!/Casks
+!/README.md
+!/test.fish
